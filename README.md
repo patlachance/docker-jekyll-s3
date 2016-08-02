@@ -1,4 +1,4 @@
-Contains jekyll 3.0.1 and s3_website 2.12.2
+Contains jekyll 3.0.1 and s3_website 2.14.0
 
 To allow jekyll watch, filesystem notifications are visible inside the container via watcher.rb script.
 
